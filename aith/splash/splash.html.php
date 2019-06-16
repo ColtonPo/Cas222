@@ -18,7 +18,7 @@
 
 <body class="max-width">
 <header>
-    <a href="aith.html.php"><h1>Ace in the Hole</h1></a>
+    <a href="../aith.html.php"><h1>Ace in the Hole</h1></a>
 </header>
 <body>
 <main>
